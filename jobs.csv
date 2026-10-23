@@ -1,0 +1,11 @@
+title,company,description,location,experience_required,job_type,skills
+Python Developer,Northstar Labs,"Build and maintain backend services and APIs. Work with Python, Django, PostgreSQL, testing, and cloud deployment.",Bengaluru,1,full_time,Python|Django|SQL|REST APIs
+Data Analyst,Clearview Analytics,"Turn business data into clear reports and dashboards. Analyze datasets using SQL, Python, Excel, and Power BI.",Mumbai,0,full_time,SQL|Python|Excel|Power BI
+Frontend Developer,PixelCraft,"Create responsive customer-facing web applications with modern JavaScript, React, HTML, and CSS.",Hyderabad,1,full_time,JavaScript|HTML|CSS|React
+Machine Learning Intern,Terra Intelligence,"Prepare datasets and prototype machine-learning workflows using Python, pandas, scikit-learn, and statistics.",Pune,0,internship,Python|Pandas|Scikit-learn|Statistics
+Java Backend Engineer,BluePeak Systems,"Develop secure, scalable backend services and database integrations. Experience with Java, Spring Boot, SQL, and REST APIs.",Chennai,2,full_time,Java|Spring Boot|SQL|REST APIs
+UI UX Designer,Studio Meridian,"Research user needs and design accessible digital experiences. Create prototypes and design systems using Figma and usability testing.",Remote,1,full_time,Figma|Prototyping|UX Research|Accessibility
+Cloud Support Associate,CloudHarbor,"Help customers troubleshoot cloud infrastructure, Linux systems, networking, and deployment workflows.",Remote,0,full_time,Linux|Networking|Cloud|Troubleshooting
+QA Automation Engineer,Verity Software,"Design test plans and automate web application testing with Python, Selenium, API testing, and CI pipelines.",Delhi,1,full_time,Python|Selenium|API Testing|CI
+Business Analyst,Maple Consulting,"Gather requirements, document processes, and communicate insights to delivery teams using data analysis and stakeholder management.",Gurugram,1,full_time,Requirements|SQL|Excel|Communication
+Full Stack Developer,Orbit Works,"Build web products across frontend and backend. Use JavaScript, HTML, CSS, Python, Django, SQL, and version control.",Bengaluru,1,contract,JavaScript|HTML|CSS|Python|Django|SQL
